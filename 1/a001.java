@@ -25,5 +25,6 @@ public class a001 {
 		Dog d=new Dog("rex",27);
 		System.out.println(d.getName());
 		System.out.println("абв");
+		System.out.println((int)3.9);
 	}
 }
